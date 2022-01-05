@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Carlos-d4vi
-- 👀 I’m interested in A better future in programing
-- 🌱 I’m currently learning Html, Css, JavaScript.
-- I'm new to programming but I'm learning a lot, I have 1 year of python and a few months of JavaScript, Css and Html. I am happy to share my experiences with you.
